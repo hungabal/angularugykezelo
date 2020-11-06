@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed439329-6ed3-4369-84ef-0c71c6018c5e" name="Default Changelist" comment="" />
+    <list default="true" id="ed439329-6ed3-4369-84ef-0c71c6018c5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\bgal\Desktop\PHP-JS\angularugykezelo\angularugykezelo\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604656715936</updated>
       <workItem from="1604656717789" duration="237000" />
+      <workItem from="1604681841010" duration="1045000" />
     </task>
     <servers />
   </component>
