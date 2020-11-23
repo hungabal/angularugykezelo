@@ -20,33 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed439329-6ed3-4369-84ef-0c71c6018c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/angularugykezelo/src/app/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/e2e/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/e2e/src/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/e2e/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/app/server/server.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/app/server/server.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angularugykezelo/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularugykezelo/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularugykezelo/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +57,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/PHPStormProjects/Taxiapp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
     <property name="ts.external.directory.path" value="C:\Users\bgal\Desktop\PHP-JS\angularugykezelo\angularugykezelo\node_modules\typescript\lib" />
@@ -98,6 +78,10 @@
       <workItem from="1605168095366" duration="5861000" />
       <workItem from="1605257481695" duration="3170000" />
       <workItem from="1605340542656" duration="6224000" />
+      <workItem from="1605458445980" duration="595000" />
+      <workItem from="1605507891917" duration="4900000" />
+      <workItem from="1605522884063" duration="1881000" />
+      <workItem from="1605597152996" duration="2688000" />
     </task>
     <servers />
   </component>
@@ -117,6 +101,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1605601005213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1605601005213" />
     <state x="781" y="165" key="SettingsEditor" timestamp="1605340621129">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
